@@ -1,0 +1,2 @@
+# autorclone
+Copying made easy
